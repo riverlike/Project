@@ -3,7 +3,8 @@
 
 ### 물류 이동 최적 경로 Agent
 
-- AgileSoDA 기업 프로젝트
+- [AgileSoDA](http://www.agilesoda.com/) 기업 프로젝트
+ 
  ![ㅇ](http://www.agilesoda.com/theme/basic/img/sub/company/company_agilesoda__icon.svg)
  
  
