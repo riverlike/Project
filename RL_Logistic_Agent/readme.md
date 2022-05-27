@@ -1,8 +1,23 @@
-### 강화학습 스터디
+# Aiffelton (2022.04.25-2022.06.10)
+---
+
+### 물류 이동 최적 경로 Agent 개발
+
+- [AgileSoDA](http://www.agilesoda.com/) 기업 프로젝트
+ 
+ ![ㅇ](http://www.agilesoda.com/theme/basic/img/sub/company/company_agilesoda__icon.svg)
+ 
+ 
+
+
+
+---
+
+# 강화학습 스터디
 - 참고 : [김성훈 교수님의 모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
   
----
+
 
 ### Q-Learning 실습
 환경 : OpenAI gym FrozenLake 4x4 (is_slippery:False) 
