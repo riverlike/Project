@@ -1,7 +1,7 @@
 ### 강화학습 스터디
 ---
 
-### Q-learning 실습
+### Q-Learning 실습
 - 참고 : [김성훈 교수님의 모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
 1. [Q-learning algorithm](https://github.com/riverlike/Project/blob/main/Hackathon2022/RL_Study/q_learning_01.ipynb)
@@ -11,7 +11,18 @@
   - add random noise
   - discounted future reward
 
-3. Q-learning in non-deterministic world
+3. [Q-learning optimal path 출력](https://github.com/riverlike/Project/blob/main/Hackathon2022/RL_Study/q_learning_03.ipynb)
+
+
+---
+
+### Q-Network 실습
+
+
+---
+
+### Deep Q-Network(DQN) 실습
+
 
 
 
