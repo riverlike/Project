@@ -5,7 +5,7 @@
 
 - [AgileSoDA](http://www.agilesoda.com/) 기업 프로젝트
  
- ![ㅇ](http://www.agilesoda.com/theme/basic/img/sub/company/company_agilesoda__icon.svg)
+ ![ㅇ]([http://www.agilesoda.com/theme/basic/img/sub/company/company_agilesoda__icon.svg](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn1f9q%2FbtrEcO00Whq%2FKbXvKzhKKR4VMBZMq2BcWk%2Fimg.png)
  
  
 
