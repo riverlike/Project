@@ -7,7 +7,8 @@
  
  ![ㅇ](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn1f9q%2FbtrEcO00Whq%2FKbXvKzhKKR4VMBZMq2BcWk%2Fimg.png)
  
- 
+- 학습결과 Q-Table
+ ![d](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FurlY2%2FbtrEdrRQp4Q%2FchfK5yn68ybKC0a2kKF1NK%2Fimg.png)
 
 최종 결과
 ---
